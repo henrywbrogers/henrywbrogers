@@ -1,7 +1,5 @@
 - Hi, I’m @henrywbrogers
-- I’m interested in machine learning and math.
-- I’m currently learning functional programming, operating systems, and algorithms.
-- I’m looking to collaborate on anything.
+- I like math and algorithms
 
 
 <!---
